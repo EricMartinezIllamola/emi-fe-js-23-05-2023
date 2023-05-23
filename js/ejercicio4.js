@@ -1,0 +1,5 @@
+let CELSIUS = 25;
+let FAHRENHEID = 0;
+
+FAHRENHEID = (CELSIUS * 9 / 5) + 32;
+console.log(FAHRENHEID);
